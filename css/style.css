@@ -1,0 +1,17 @@
+body{
+    background-color: #0D1117;
+}
+div.clr{    
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-flex;
+    font-size:50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+div.clr input[type="color"]{
+    width: 100px;    
+    height: 50px;
+}
